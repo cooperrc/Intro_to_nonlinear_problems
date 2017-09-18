@@ -3,7 +3,7 @@
 This repository [lecture notes](./Intro_to_nonlinear_problems.ipynb) provides a nonlinear
 function [loan_payments.m](./loan_payments.m) to attempt to solve for a given variable. 
 
-![Car payments tracking principal amount over 5 years](./figure_01.png)
+![Car payments tracking principal amount over 5 years](./figure_1.png)
 
 function `loan_payments`
 
