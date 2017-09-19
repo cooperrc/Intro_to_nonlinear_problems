@@ -17,6 +17,7 @@ function amount_left = loan_payments(monthly_payment,price,apr,no_of_years,plot_
   end
   amount_left=principle;
   if plot_bool
+    figure(1)
     plot([1:number_of_months]/12, P_vector)
     xlabel('time (years)')
     ylabel('principle amount left ($)')
